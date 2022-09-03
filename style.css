@@ -1,0 +1,39 @@
+*{ 
+    padding: 0;
+    margin: 0;
+}
+h1 {
+    color: black;
+    display: flex;
+    justify-content: center;
+}
+
+body{
+    background: white;
+    
+}
+
+
+
+#calform {
+    border: 10px solid wheat;
+    background: #2f2f2f;
+    box-shadow: 5px 5px;
+    
+    margin-left: 30%;
+    margin-right: 36.7%;
+}
+
+
+input {
+    width: 100px;
+    height: 100px;
+    font-size: 50px;
+    border-radius: 10px;
+    margin: 2px;
+    padding: 2px;
+    background-color: black;
+    color: white;
+    border: none;
+    box-shadow: 4px 4px 4px #8888;
+}
